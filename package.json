@@ -9,6 +9,7 @@
   "author": "arsany emad",
   "license": "ISC",
   "dependencies": {
+    "@cypress/browserify-preprocessor": "^3.0.2",
     "chai": "^5.2.0",
     "mocha": "^11.2.2"
   },
